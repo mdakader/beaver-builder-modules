@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Easy Modules
- * Plugin URI: https://google.com/
+ * Plugin URI: https://easymodule.abdul-k.com/
  * Description: Easy Modules for Beaver Builder modules.
  * Version: 1.0
  * Requires at least: 4.6
- * Tested up to: 5.8
+ * Tested up to: 5.9
  * Requires PHP: 5.6
  * Author: Easy Module
- * Author URI: https://google.com/
+ * Author URI: https://abdul-k.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       em
