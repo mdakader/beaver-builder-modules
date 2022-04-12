@@ -33,9 +33,9 @@ class EMImageGallery extends FLBuilderModule
          * Already registered
          */
         $this->add_css('justifiedGallery');
-        $this->add_css('magnific');
+        $this->add_css('venobox');
         $this->add_js('justifiedGallery');
-        $this->add_js('magnific');
+        $this->add_js('venobox');
     }
 }
 

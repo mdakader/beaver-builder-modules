@@ -47,14 +47,10 @@ class Easy_Module_Loader
 
     static public function em_modules_assets()
     {
-        wp_register_style('bootstrap', EASY_MODULE_URL . 'assets/css/bootstrap.min.css', [], '4.6.0');
-        wp_register_script('bootstrap', EASY_MODULE_URL . 'assets/js/bootstrap.min.js', ['jquery'], '4.6.0', true);
-        wp_register_style('slick', EASY_MODULE_URL . 'assets/css/slick.css', [], '1.8.1');
         wp_register_style('justifiedGallery', EASY_MODULE_URL . 'assets/css/justifiedGallery.min.css', [], '2.5.0');
-        wp_register_style('magnific', EASY_MODULE_URL . 'assets/css/magnific-popup.css', [], '1.5.0');
-        wp_register_script('slick', EASY_MODULE_URL . 'assets/js/slick.min.js', ['jquery'], '1.8.1', true);
+        wp_register_style('venobox', EASY_MODULE_URL . 'assets/css/venobox.css', [], '2.0.4');
         wp_register_script('justifiedGallery', EASY_MODULE_URL . 'assets/js/jquery.justifiedGallery.js', ['jquery'], '2.5.0', true);
-        wp_register_script('magnific', EASY_MODULE_URL . 'assets/js/jquery.magnific-popup.js', ['jquery'], '1.5.0', true);
+        wp_register_script('venobox', EASY_MODULE_URL . 'assets/js/venobox.js', ['jquery'], '2.0.4', true);
     }
 }
 

@@ -15,7 +15,7 @@ $em_gallery_photos = $settings->em_gallery_photos;
         if (!empty($em_gallery_photos)):
             foreach ($em_gallery_photos as $em_gallery_photo):
                 ?>
-                <a class="image-gallery" href="<?php echo esc_url($em_gallery_photo->em_gallery_photo_src) ?>">
+                <a class="image-gallery" data-gall="gallery01" href="<?php echo esc_url($em_gallery_photo->em_gallery_photo_src) ?>">
                     <img alt="<?php echo esc_html($em_gallery_photo->em_image_caption) ?>"
                          src="<?php echo esc_url($em_gallery_photo->em_gallery_photo_src) ?>"/>
                     <div class="em-image-info">

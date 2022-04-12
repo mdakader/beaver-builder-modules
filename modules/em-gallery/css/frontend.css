@@ -73,3 +73,7 @@ a.image-gallery.jg-entry.jg-entry-visible:hover .em-image-info {
     display: none !important;
     opacity: 0;
 }
+
+.justified-gallery .vbox-hidden {
+    display: initial;
+}
