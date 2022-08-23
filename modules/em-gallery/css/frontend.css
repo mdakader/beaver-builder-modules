@@ -47,7 +47,7 @@ a.image-gallery.jg-entry.jg-entry-visible:hover:after {
     bottom: -100px;
     left: 0;
     color: #ffffff;
-    padding: 10px;
+    padding: 20px;
     width: 100%;
     visibility: hidden;
     opacity: 0;
@@ -55,10 +55,17 @@ a.image-gallery.jg-entry.jg-entry-visible:hover:after {
     z-index: 99;
 }
 
-.em-image-info h2{
-    font-size: 14px;
+.em-image-info h4{
+    font-size: 12px;
     line-height: 18px;
-    font-weight: 400;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.em-image-info h2{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
     text-transform: capitalize;
 }
 a.image-gallery.jg-entry.jg-entry-visible:hover .em-image-info {
@@ -72,8 +79,4 @@ a.image-gallery.jg-entry.jg-entry-visible:hover .em-image-info {
 .justified-gallery a.image-gallery  .jg-caption.jg-caption-visible {
     display: none !important;
     opacity: 0;
-}
-
-.justified-gallery .vbox-hidden {
-    display: initial;
 }

@@ -1,9 +1,8 @@
-=== Easy Modules ===
+=== Easy Modules for Beaver Builder ===
 Contributors: babuwpd
-Donate link: https://www.paypal.me/babuwpd
 Tags: Easy Module, page builder, beaver builder, front-end builder, drag and drop editor
 Requires at least: 4.6
-Tested up to: 5.9
+Tested up to: 6.0
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv2 or later
@@ -13,17 +12,21 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-    Easy Modules plugin will add some features For Beaver Page Builder Modules.
+    Easy Modules plugin will add features For Beaver Builder Modules.
 
 
-= Modules And Widgets =
+= Available Modules =
 
 <ul>
     <li>Image Gallery</li>
+    <li>Dual Heading</li>
+    <li>Flip Box</li>
+    <li>Services</li>
+    <li>Team</li>
+    <li>Testimonial</li>
+    <li>Timeline</li>
+    <li>Call to action</li>
 </ul>
-
-**Check Plugin Demo - <a href="https://abdul-k.com/">Click Here</a>**
-
 
 
 
@@ -36,7 +39,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Screenshots ==
 
-1. Easy Modules.
+1. Image gallery
 
 
 == Frequently Asked Questions ==
@@ -57,3 +60,6 @@ You need Beaver Builder Lite or Premium Version active for Easy Modules.
 
 = 1.0.0 =
 * Initial Release
+
+= 1.0.1 =
+* Name change

@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: Easy Modules
- * Plugin URI: https://easymodule.abdul-k.com/
+ * Plugin Name: Easy Modules for Beaver Builder
+ * Plugin URI: https://babuwp.com/
  * Description: Easy Modules for Beaver Builder modules.
- * Version: 1.0
+ * Version: 1.0.1
  * Requires at least: 4.6
- * Tested up to: 5.9
+ * Tested up to: 6.0
  * Requires PHP: 5.6
- * Author: Easy Module
- * Author URI: https://abdul-k.com/
+ * Author: Babu WP
+ * Author URI: https://profiles.wordpress.org/babuwpd/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       em
