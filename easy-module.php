@@ -3,11 +3,11 @@
  * Plugin Name: Easy Modules for Beaver Builder
  * Plugin URI: https://babuwp.com/
  * Description: Easy Modules for Beaver Builder modules.
- * Version: 1.0.1
+ * Version: 1.1.0
  * Requires at least: 4.6
  * Tested up to: 6.0
  * Requires PHP: 5.6
- * Author: Babu WP
+ * Author: Md Abdul Kader
  * Author URI: https://profiles.wordpress.org/babuwpd/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html

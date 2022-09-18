@@ -44,7 +44,6 @@ FLBuilder::register_module('LHFlipBox', [ // Tab title
                     'lh_flip_box_image' => [
                         'type' => 'photo',
                         'label' => __('Flip Box Image', 'em'),
-                        'default' => __('', 'em'),
                         'preview' => [
                             'type' => 'none',
                         ],

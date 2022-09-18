@@ -1,0 +1,789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Modules\n"
+"POT-Creation-Date: 2022-09-18 11:34+0600\n"
+"PO-Revision-Date: 2022-09-18 11:34+0600\n"
+"Last-Translator: \n"
+"Language-Team: ea\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/em-cta/em-cta.php:21
+msgid "Call to action"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:22
+msgid "This is for Call to action Module "
+msgstr ""
+
+#: modules/em-cta/em-cta.php:23 modules/em-dual-heading/em-dual-heading.php:23
+#: modules/em-flip-box/em-flip-box.php:23 modules/em-gallery/em-gallery.php:23
+#: modules/em-services/em-services.php:23 modules/em-team/em-team.php:23
+#: modules/em-testimonial-quote/em-testimonial-quote.php:23
+#: modules/em-timeline/em-timeline.php:23
+msgid "Easy Modules"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:38 modules/em-dual-heading/em-dual-heading.php:38
+#: modules/em-flip-box/em-flip-box.php:39 modules/em-gallery/em-gallery.php:47
+#: modules/em-gallery/em-gallery.php:148 modules/em-services/em-services.php:39
+#: modules/em-services/em-services.php:270 modules/em-team/em-team.php:39
+#: modules/em-team/em-team.php:169 modules/em-team/em-team.php:222
+#: modules/em-testimonial-quote/em-testimonial-quote.php:45
+#: modules/em-testimonial-quote/em-testimonial-quote.php:252
+#: modules/em-timeline/em-timeline.php:41
+#: modules/em-timeline/em-timeline.php:126
+msgid "General"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:41 modules/em-cta/em-cta.php:88
+#: modules/em-dual-heading/em-dual-heading.php:41
+#: modules/em-dual-heading/em-dual-heading.php:100
+#: modules/em-flip-box/em-flip-box.php:42
+#: modules/em-flip-box/em-flip-box.php:111 modules/em-gallery/em-gallery.php:50
+#: modules/em-services/em-services.php:42
+#: modules/em-services/em-services.php:68 modules/em-team/em-team.php:42
+#: modules/em-team/em-team.php:75
+#: modules/em-testimonial-quote/em-testimonial-quote.php:48
+#: modules/em-timeline/em-timeline.php:44
+#: modules/em-timeline/em-timeline.php:61
+#: modules/em-timeline/em-timeline.php:167
+msgid "Content"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:45 modules/em-services/em-services.php:277
+#: modules/em-timeline/em-timeline.php:138
+msgid "Select Icon"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:54
+msgid "CTA Text"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:55
+msgid "CTA Content"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:64
+msgid "CTA Link URL"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:65 modules/em-flip-box/em-flip-box.php:76
+#: modules/em-services/em-services.php:307
+msgid "https://google.com"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:73
+msgid "CTA Link Text"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:85 modules/em-dual-heading/em-dual-heading.php:97
+#: modules/em-flip-box/em-flip-box.php:108 modules/em-gallery/em-gallery.php:88
+#: modules/em-gallery/em-gallery.php:91 modules/em-services/em-services.php:65
+#: modules/em-team/em-team.php:72 modules/em-team/em-team.php:247
+#: modules/em-testimonial-quote/em-testimonial-quote.php:136
+#: modules/em-testimonial-quote/em-testimonial-quote.php:139
+#: modules/em-timeline/em-timeline.php:58
+#: modules/em-timeline/em-timeline.php:164
+msgid "Style"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:92
+msgid "CTA Background"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:103
+msgid "CTA Padding"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:115
+msgid "CTA Text Color"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:126
+msgid "CTA Text Typography"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:135
+msgid "CTA Button Text Color"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:146
+msgid "CTA Button Text Hover Color"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:157
+msgid "CTA Button Text Typography"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:166
+msgid "CTA Button Background Color"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:178
+msgid "CTA Button Hover Background Color"
+msgstr ""
+
+#: modules/em-cta/em-cta.php:191
+msgid "CTA Button Padding"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:21
+msgid "Dual Heading"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:22
+msgid "This is for Dual Heading Module"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:45
+#: modules/em-dual-heading/em-dual-heading.php:46
+msgid "First Text"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:47
+msgid "Hello"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:56
+#: modules/em-dual-heading/em-dual-heading.php:57
+msgid "Second Text"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:58
+msgid "World!"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:67
+msgid "Select Heading"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:83
+msgid "Sub Heading Text"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:84
+msgid "Heading 1"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:124
+msgid "Colored Border Size"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:140
+msgid "Dual Heading Colored Border"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:151
+#: modules/em-timeline/em-timeline.php:74
+msgid "Title Typography"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:160
+msgid "First Text Color"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:172
+msgid "Second Title Color"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:184
+msgid "Sub Heading Typography"
+msgstr ""
+
+#: modules/em-dual-heading/em-dual-heading.php:193
+msgid "Sub Heading Color"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:21
+msgid "Flip Box"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:22
+msgid "This is for Flip Box Module"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:46
+msgid "Flip Box Image"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:53
+msgid "Flip Box Back Text Title"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:54
+msgid "Title Text"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:55
+msgid "Fames dignissim ut hac"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:64
+msgid "Flip Box Back Text Sub Title"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:65
+msgid "Description Text"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:66
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque, consectetur "
+"aliquam amet integer augue morbi volutpat."
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:75
+msgid "Flip Box Link URL"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:84
+msgid "Flipbox Link Button Text"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:93
+msgid "Icon"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:115
+msgid "Flip Box Height"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:129
+msgid "Front Background Color"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:142
+msgid "Back Background Color"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:154
+msgid "Back Title Typography"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:163
+msgid "Back Title Color"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:175
+msgid "Back Description Typography"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:184
+msgid "Back Description Color"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:196
+msgid "Button Typography"
+msgstr ""
+
+#: modules/em-flip-box/em-flip-box.php:205
+#: modules/em-flip-box/em-flip-box.php:217
+msgid "Button Color"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:21 modules/em-gallery/em-gallery.php:54
+#: modules/em-gallery/em-gallery.php:145
+msgid "Gallery"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:22
+msgid "This is for Recent Posts Module"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:63 modules/em-gallery/em-gallery.php:66
+#: modules/em-testimonial-quote/em-testimonial-quote.php:61
+#: modules/em-testimonial-quote/em-testimonial-quote.php:64
+msgid "Options"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:70
+msgid "Select The Last Row"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:73
+msgid " Justify the last row"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:74
+msgid "No justify the last row"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:79
+msgid "Margin"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:80
+#: modules/em-testimonial-quote/em-testimonial-quote.php:271
+msgid "2"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:95
+msgid "Image Title Text Hover Color"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:106
+msgid "Image Title Text Typography"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:115
+msgid "Image Sub Title Text Color"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:126
+msgid "Image Sub Title Text Typography"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:155
+msgid "Upload gallery photo"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:162 modules/em-gallery/em-gallery.php:163
+msgid "Image title"
+msgstr ""
+
+#: modules/em-gallery/em-gallery.php:171 modules/em-gallery/em-gallery.php:172
+msgid "Image sub title"
+msgstr ""
+
+#: modules/em-services/em-services.php:21
+msgid "Services"
+msgstr ""
+
+#: modules/em-services/em-services.php:22
+msgid "Lemon hive services"
+msgstr ""
+
+#: modules/em-services/em-services.php:46
+msgid "Service"
+msgstr ""
+
+#: modules/em-services/em-services.php:53
+msgid "Select Column"
+msgstr ""
+
+#: modules/em-services/em-services.php:56
+msgid "Column-02"
+msgstr ""
+
+#: modules/em-services/em-services.php:57
+msgid "Column-03"
+msgstr ""
+
+#: modules/em-services/em-services.php:72
+msgid "Service Title Text Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:83
+msgid "Service Title Text Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:94
+msgid "Service Title Text Typography"
+msgstr ""
+
+#: modules/em-services/em-services.php:103
+msgid "Service Description Text Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:114
+msgid "Service Description Text Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:125
+msgid "Service Description Text Typography"
+msgstr ""
+
+#: modules/em-services/em-services.php:134
+#: modules/em-testimonial-quote/em-testimonial-quote.php:165
+msgid "Icon Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:146
+msgid "Icon Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:158
+#: modules/em-testimonial-quote/em-testimonial-quote.php:174
+#: modules/em-timeline/em-timeline.php:101
+msgid "Icon Size"
+msgstr ""
+
+#: modules/em-services/em-services.php:171
+msgid "Service Button Text Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:182
+msgid "Service Button Text Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:193
+msgid "Service Button Text Typography"
+msgstr ""
+
+#: modules/em-services/em-services.php:202
+msgid "Service Border Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:213
+msgid "Service Border Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:224
+msgid "Service Single Item"
+msgstr ""
+
+#: modules/em-services/em-services.php:236
+msgid "Service Single Item Background Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:247
+msgid "Service Single Item Background Hover Color"
+msgstr ""
+
+#: modules/em-services/em-services.php:267
+msgid "Add service"
+msgstr ""
+
+#: modules/em-services/em-services.php:286
+#: modules/em-timeline/em-timeline.php:133
+msgid "Title"
+msgstr ""
+
+#: modules/em-services/em-services.php:287
+#: modules/em-services/em-services.php:288
+msgid "Web Services"
+msgstr ""
+
+#: modules/em-services/em-services.php:296
+msgid "Web Services Short Description"
+msgstr ""
+
+#: modules/em-services/em-services.php:297
+#: modules/em-services/em-services.php:298
+msgid "Web services short description"
+msgstr ""
+
+#: modules/em-services/em-services.php:306
+msgid "Service Link URL"
+msgstr ""
+
+#: modules/em-services/em-services.php:315
+msgid "Service Link Button Text"
+msgstr ""
+
+#: modules/em-services/em-services.php:324
+msgid "View More Icon"
+msgstr ""
+
+#: modules/em-team/em-team.php:21 modules/em-team/em-team.php:46
+msgid "Team"
+msgstr ""
+
+#: modules/em-team/em-team.php:22
+msgid "Lemon hive Team"
+msgstr ""
+
+#: modules/em-team/em-team.php:54
+msgid "Settings"
+msgstr ""
+
+#: modules/em-team/em-team.php:58
+msgid "Team Column"
+msgstr ""
+
+#: modules/em-team/em-team.php:62
+msgid "2 Column"
+msgstr ""
+
+#: modules/em-team/em-team.php:63
+msgid "3 Column"
+msgstr ""
+
+#: modules/em-team/em-team.php:64
+msgid "4 Column"
+msgstr ""
+
+#: modules/em-team/em-team.php:79
+msgid "Team Name Text Color"
+msgstr ""
+
+#: modules/em-team/em-team.php:91
+msgid "Team Name Text Typography"
+msgstr ""
+
+#: modules/em-team/em-team.php:100
+msgid "Team Position Text Color"
+msgstr ""
+
+#: modules/em-team/em-team.php:112
+msgid "Team Position Text Typography"
+msgstr ""
+
+#: modules/em-team/em-team.php:121
+msgid "Team Image Overlay"
+msgstr ""
+
+#: modules/em-team/em-team.php:134
+msgid "Social Icon Size"
+msgstr ""
+
+#: modules/em-team/em-team.php:146
+msgid "Team Content"
+msgstr ""
+
+#: modules/em-team/em-team.php:166
+msgid "Add team"
+msgstr ""
+
+#: modules/em-team/em-team.php:176
+msgid "Select Team Photo"
+msgstr ""
+
+#: modules/em-team/em-team.php:184 modules/em-team/em-team.php:185
+#: modules/em-team/em-team.php:186
+#: modules/em-testimonial-quote/em-testimonial-quote.php:289
+#: modules/em-testimonial-quote/em-testimonial-quote.php:290
+msgid "Name"
+msgstr ""
+
+#: modules/em-team/em-team.php:194 modules/em-team/em-team.php:195
+msgid "Position"
+msgstr ""
+
+#: modules/em-team/em-team.php:203
+msgid "Social Icons"
+msgstr ""
+
+#: modules/em-team/em-team.php:219
+msgid "Add social"
+msgstr ""
+
+#: modules/em-team/em-team.php:229
+msgid "Team Social Link URL"
+msgstr ""
+
+#: modules/em-team/em-team.php:230
+msgid "https://facebook.com"
+msgstr ""
+
+#: modules/em-team/em-team.php:237
+msgid "Select Team Social Icon"
+msgstr ""
+
+#: modules/em-team/em-team.php:254
+msgid "Team Social Icon Color"
+msgstr ""
+
+#: modules/em-team/em-team.php:264
+msgid "Team Social Icon Hover Color"
+msgstr ""
+
+#: modules/em-team/em-team.php:274
+msgid "Team Social Icon Background Color"
+msgstr ""
+
+#: modules/em-team/em-team.php:285
+msgid "Team Social Icon Background Hover Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:21
+msgid "Testimonial Quote"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:22
+msgid "This is for Testimonial Quote Module"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:52
+msgid "Testimonial"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:68
+msgid "Slide To Show"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:73
+msgid "Slide To Scroll"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:78
+msgid "Show Dots?"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:81
+#: modules/em-testimonial-quote/em-testimonial-quote.php:90
+#: modules/em-testimonial-quote/em-testimonial-quote.php:99
+msgid "Yes"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:82
+#: modules/em-testimonial-quote/em-testimonial-quote.php:91
+#: modules/em-testimonial-quote/em-testimonial-quote.php:100
+msgid "No"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:87
+msgid "Show Arrows?"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:96
+msgid "Autoplay?"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:105
+msgid "Autoplay Speed"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:110
+msgid "Speed"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:115
+msgid "Slide Dots Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:124
+msgid "Slide Active Dots Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:143
+msgid "Testimonial Box Background"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:153
+msgid "Content padding"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:187
+msgid "Testimonial Description Text Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:196
+msgid "Testimonial Description Text Typography"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:205
+msgid "Name Text Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:214
+msgid "Name Text Typography"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:223
+msgid "Title Text Color"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:232
+msgid "Title Text Typography"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:249
+msgid "Stack Slide"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:259
+msgid "Quote Icon"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:267
+msgid "Show Stars"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:270
+msgid "1"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:272
+msgid "3"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:273
+msgid "4"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:274
+msgid "5"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:279
+msgid "Testimonial Description"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:280
+msgid "Testimonial description"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:299
+#: modules/em-testimonial-quote/em-testimonial-quote.php:300
+msgid "Designation"
+msgstr ""
+
+#: modules/em-testimonial-quote/em-testimonial-quote.php:309
+msgid "Customer Photo"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:21
+#: modules/em-timeline/em-timeline.php:48
+msgid "Timeline"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:22
+msgid "This is for Timeline Module"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:65
+msgid "Style Type"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:68
+msgid "Style 1"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:69
+msgid "Style 2"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:83
+msgid "Year Typography"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:92
+msgid "Description Typography"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:123
+msgid "Add Timeline"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:143
+msgid "Session"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:149
+msgid "URL"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:155
+msgid "Descriptions"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:171
+msgid "Timeline Background Color "
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:183
+msgid "Icon Background Color"
+msgstr ""
+
+#: modules/em-timeline/em-timeline.php:195
+msgid "Year Background Color"
+msgstr ""
